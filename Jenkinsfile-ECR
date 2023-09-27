@@ -25,7 +25,7 @@ pipeline{
             steps{
             gitCheckout(
                 branch: "main",
-                url: "https://github.com/ManjuNK/DevOps-Java-App.git"
+                url: "https://github.com/ManjuNK/Java-Application-DevOpsSec-Push_to_ECR_29th-Sept.git"
             )
             }
         }
